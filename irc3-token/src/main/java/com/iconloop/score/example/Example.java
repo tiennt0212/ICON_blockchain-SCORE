@@ -23,8 +23,8 @@ import score.annotation.External;
 
 import java.math.BigInteger;
 
-public class IRC3BasicToken extends IRC3Basic {
-    public IRC3BasicToken(String _name, String _symbol) {
+public class Example extends IRC3Basic {
+    public Example(String _name, String _symbol) {
         super(_name, _symbol);
     }
 
